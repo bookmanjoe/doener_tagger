@@ -27,7 +27,8 @@ public DoenerFavActivityFragment(){
         String [] doenerFavoritenArray = {
                 "Berlin Döner: 3,50 Euro",
                 "Döner Palast: 3,50 Euro",
-                "Alhay Döner: 3,00 Euro "
+                "Alhay Döner: 3,00 Euro ",
+                "Urfa Mangal: 3,50 Euro"
         };
 
         List <String> doenerFavoritenListe= new ArrayList<>(Arrays.asList(doenerFavoritenArray));
