@@ -5,4 +5,6 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Einstellungen</string>
+    <string name="title_activity_doener_map">Dönerkarte</string>
+    <string name="title_activity_doener_fav">Favoriten</string>
 </resources>
